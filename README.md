@@ -13,4 +13,4 @@ To Install Visio Professional 2024: (Windows only)
 5. Enjoy your free Visio Professional 2024.
 
 # Featured Visio templates and diagrams
-[To see the hundreds of [templates and sample diagrams](https://support.microsoft.com/en-gb/office/featured-visio-templates-and-diagrams-27d4274b-5fc2-4f5c-8190-35ff1db34aa5#category=windows) available, you can download and open a template in the Visio app.
+To see the hundreds of [templates and sample diagrams](https://support.microsoft.com/en-gb/office/featured-visio-templates-and-diagrams-27d4274b-5fc2-4f5c-8190-35ff1db34aa5#category=windows) available, you can download and open a template in the Visio app.
