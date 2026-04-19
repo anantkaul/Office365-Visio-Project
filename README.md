@@ -2,7 +2,7 @@
 To Install Visio Professional 2024: (Windows only)
 
 1. [Download](https://github.com/anantkaul/VisioPro2024/archive/refs/heads/main.zip) this repository.
-2. Open and Extract / Unzip folder `VisioPro2024` to `C:`
+2. Extract folder `VisioPro2024` to `C:`
 3. Run CMD as administrator and run the following commands to install:
 ```sh
 	cd C:\VisioPro2024
