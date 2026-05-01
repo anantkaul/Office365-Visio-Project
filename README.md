@@ -1,34 +1,38 @@
-Deploy Office365-Visio-Project Professional 2024 LTSC
-To Install: (Windows x64 only)
+# Deploy Office365-Visio-Project
+To Install:
 
 1. [Download](https://github.com/anantkaul/Office365/archive/refs/heads/main.zip) this repository.
 2. Extract `Office365-main` to `C:`
 3. Search for CMD (Command Prompt), Right-Click and `Run as administrator` and execute the following commands to install:
 
-### _Option 1: Download Office 365 with Visio & Project_
+### _Option A (Windows Host): Download Office 365 with Visio & Project_
 - Office 365 (Sign in with your account)
 - Visio (free)
 - Project (free)
 ```sh
-	cd C:\Office365-main
-	.\setup.exe /configure .\O365-Visio-Project.xml
+	cd C:\Office365-main && .\setup.exe /configure .\O365-Visio-Project.xml
 ```
 
-### _Option 2: Download Office Pro Plus with Visio & Project_
+### _Option B (Windows Host): Download Office Pro Plus with Visio & Project_
 - Office Pro Plus (free)
 - Visio (free)
 - Project (free)
 ```sh
-	cd C:\Office365-main
-	.\setup.exe /configure .\OProPlus-Visio-Project.xml
+	cd C:\Office365-main && .\setup.exe /configure .\OProPlus-Visio-Project.xml
 ```
 
-### _Option 3: Download Visio & Project only_
+### _Option C (Windows Host): Download Visio & Project only_
 - Visio (free)
 - Project (free)
 ```sh
-	cd C:\Office365-main
-	.\setup.exe /configure .\Visio-Project.xml
+	cd C:\Office365-main && .\setup.exe /configure .\Win-Visio-Project.xml
+```
+
+### _Option D (Windows VM in Mac Silicon ARM): Download Visio & Project only_
+- Visio (free)
+- Project (free)
+```sh
+	cd C:\Office365-main && .\setup.exe /configure .\macOS-Visio-Project.xml
 ```
 
 4. Wait for the setup to install. It may take a few minutes to install.
