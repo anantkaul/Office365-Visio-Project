@@ -1,6 +1,8 @@
 # Deploy Office365-Visio-Project
 To Install:
 
+** First uninstall previously installed MS Office 365 or Visio or Project, if any **
+
 1. [Download](https://github.com/anantkaul/Office365/archive/refs/heads/main.zip) this repository.
 2. Extract `Office365-main` to `C:`
 3. Search for CMD (Command Prompt), Right-Click and `Run as administrator` and execute the following commands to install:
